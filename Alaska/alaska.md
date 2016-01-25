@@ -1,0 +1,2 @@
+Name: Alaska
+Capitol: Juneau
